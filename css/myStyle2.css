@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+#topNavi {
+  padding-top: 50px;
+}
+.nav-item {
+  padding: 0 20px;
+}
+.nav-link {
+  color: rgb(0, 0, 0);
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-top: 40px;
+  font-size: 15px;
+}
+.nav-item:hover .nav-link {
+  color: rgba(43, 41, 41, 0.6);
+  border-bottom: 3px solid #00fff0;
+  padding-bottom: 8px;
+  transition: 0.3s;
+}
+.active {
+  color: rgba(43, 41, 41, 0.6);
+  border-bottom: 3px solid #00fff0;
+}
+#leftSection {
+  background-color: black;
+  color: white;
+  width: 100%;
+  font-weight: bold;
+  border: 1px solid gray;
+}
+#rightSection {
+  background-color: white;
+  color: black;
+  border: 1px solid gray;
+  width: 100%;
+  font-weight: bold;
+}

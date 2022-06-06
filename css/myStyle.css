@@ -1,0 +1,53 @@
+/*index*/
+body {
+  background-color: black;
+}
+
+#topNavi {
+  padding-top: 50px;
+  color: white;
+}
+.nav-item {
+  padding: 0 20px;
+}
+.nav-link {
+  color: white;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-top: 40px;
+  font-size: 15px;
+}
+.nav-item:hover .nav-link {
+  color: rgba(255, 255, 255, 0.6);
+  border-bottom: 3px solid #00fff0;
+  padding-bottom: 8px;
+  transition: 0.3s;
+}
+.active {
+  color: rgba(255, 255, 255, 0.6);
+  border-bottom: 3px solid #00fff0;
+}
+.imgContainer {
+  position: relative;
+}
+.textCenter {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#imgText {
+  color: white;
+  letter-spacing: 3px;
+}
+
+#imgButton {
+  color: #00fff0;
+  background: rgba(255, 255, 255, 0.3);
+  width: 200px;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+/*index*/
