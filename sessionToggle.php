@@ -97,19 +97,11 @@
                             <small class="form-text text-muted"><?php echo $error_password; ?></small>
                           </div>
                           <div class="row">
-                            <label for="role" class="col-form-label" style="color: black;">Add As:</label>
+                            <label for="role" class="col-form-label" style="color: black;">Register As:</label>
                             <select class="form-select" aria-label="Default select example" name="role" required>
-                              <option selected>Choose user role</option>
-                              <?php 
-                              $query = "SELECT * FROM user_role";
-                              $result = mysqli_query($link, $query);
-                              while ($row = mysqli_fetch_array($result)){
-                                extract($row);
-                              ?>
-                              <option value="<?= $role_id;?>"><?= $role ;?></option>
-                              <?php
-                              }
-                              ?>
+                              <option selected>Choose your role</option>
+                              <option value="1">Guest</option>
+                              <option value="2">Host</option>
                           </select>
                           </div>
                           <br>
