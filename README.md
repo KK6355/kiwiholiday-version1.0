@@ -21,3 +21,4 @@ Please note that:
 Rating and review can only be done when the booking is completed, that means the host already clicked the “charge fee” button and complete the booking on his side.
 
 Operation buttons are variable due to different status of bookings and houses. Such as: a guest can only see the “rating” button when the booking complete. 
+Notice that this app is just for academic and educational use, it is not a production version and all the photos that had been used are not for commercial purpose
