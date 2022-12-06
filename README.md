@@ -10,8 +10,7 @@ WEB APP function--registration, login, booking, displaying, rating, making payme
 
 Please see flowchart to get design logic.
 
-Project hosting address:
-https://vicky.dipwww.visioncollege.ac.nz/kiwiholiday/
+
 
 Please note that:
 When a host hosted a house, the house status is “pending”, an admin staff has to change the status to “listed” so that the house can be listed at front end.
