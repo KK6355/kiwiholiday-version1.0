@@ -21,3 +21,7 @@ Please note that:
 
 Operation buttons are variable due to different status of bookings and houses. Such as: a guest can only see the “rating” button when the booking complete. 
 Notice that this app is just for academic and educational use, it is not a production version and all the photos that had been used are not for commercial purpose
+![home-page](https://github.com/KK6355/kiwiholiday-version1.0/assets/93057655/edb841dd-660c-4a37-9760-143a64c87856)
+
+![house-listing](https://github.com/KK6355/kiwiholiday-version1.0/assets/93057655/bfcae867-2ef0-41d6-a996-ab50fc9cda44)
+![house-detail](https://github.com/KK6355/kiwiholiday-version1.0/assets/93057655/1c3bfc71-3b91-4afe-9514-5feeb59635fb)
